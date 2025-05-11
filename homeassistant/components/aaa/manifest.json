@@ -1,0 +1,16 @@
+{
+  "domain": "aaa",
+  "name": "aaa",
+  "codeowners": [
+    "@tkang4912"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/aaa",
+  "homekit": {},
+  "iot_class": "assumed_state",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
